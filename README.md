@@ -4,7 +4,9 @@
 ### Youtube Download + Video2Audio + Audio2Text + Translate to Spanish + NLP + Streamlit
 
 Streamlit Voice Wizard is a versatile tool that simplifies the process of transcription and translation for YouTube video and audio files. With an intuitive interface, users can upload audio files or enter video URLs, which are then transcribed using the Whisper model or an API. The transcriptions are subsequently translated into Spanish using the Opus-MT model. Furthermore, the tool performs linguistic analysis on both the transcriptions and the translated text, extracting entities and analyzing sentiment. Additionally, it retrieves information from YouTube videos, such as channel details, descriptions, and titles, for further linguistic analysis. Finally, the results are visualized and displayed through the Streamlit interface, offering users an accessible and comprehensive understanding of multimedia content in various languages.
-![image](https://github.com/demiurg0/Youtube2Text-Streamlit-Voice-Wizard/assets/165735354/4b13d644-67ca-437d-8250-148f16f73ea6)
+
+![image](https://github.com/demiurg0/Youtube2Text-Streamlit/assets/165735354/549b5fb7-0316-4cb2-93cd-5292e8701732)
+
 
 ## Key Features:
 
