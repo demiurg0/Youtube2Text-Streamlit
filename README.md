@@ -13,7 +13,8 @@ Streamlit Voice Wizard is an all-in-one application that transforms YouTube vide
 4. **Translate:** Translate the text into Spanish or other languages.
 5. **NLP Analysis:** Perform sentiment analysis and entity recognition.
 6. **Visualization:** Display the processed data through an interactive Streamlit interface.
-![image](https://github.com/demiurg0/Youtube2Text-Streamlit/assets/165735354/44b100af-e5da-48c3-8609-d3528f976286)
+   
+![image](https://github.com/demiurg0/Youtube2Text-Streamlit/assets/165735354/fb570794-0d58-4b5b-a2df-f6f79f6e2fc6)
 
 ### Key Features
 
