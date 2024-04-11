@@ -19,9 +19,13 @@ Streamlit Voice Wizard is a versatile tool that simplifies the process of transc
 - pip
 - Install dependencies from the `requirements.txt` file.
 - Add the Huggingface and Youtube V3 API keys to the code.
+
   
 ## Usage:
 
+```
+streamlit run app.py
+```
 1. Run the application by executing the following command in the terminal:
 2. In the user interface, upload an audio file in .wav format or enter a YouTube video URL.
 3. Select the transcription method (API or Whisper).
