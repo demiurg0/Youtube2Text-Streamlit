@@ -1,7 +1,3 @@
-# Youtube2Text-Streamlit-Voice-Wizard
-Streamlit Voice Wizard es una herramienta versátil que simplifica el proceso de transcripción,  traducción y procesamiento de texto para archivos de audio y videos de YouTube
-
-
 # Streamlit Voice Wizard: Youtube2Text, Transcripción, Traducción y procesamiento de Audio
 ![image](https://github.com/demiurg0/Youtube2Text-Streamlit/assets/165735354/93c850c4-55e1-4bff-aed8-94ea44952054)
 
