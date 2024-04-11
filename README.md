@@ -1,6 +1,7 @@
 # Streamlit Voice Wizard: Youtube2Text, Transcription, Translation, and Audio Processing
 
 Streamlit Voice Wizard is an all-in-one application that transforms YouTube videos into actionable text insights through a streamlined process of downloading, transcribing, translating, and performing Natural Language Processing (NLP).
+## youtube2audio + Audio2text + Translate Spanish + PLN + Streamlit
 
 ![Overview Image](https://github.com/demiurg0/Youtube2Text-Streamlit/assets/165735354/93c850c4-55e1-4bff-aed8-94ea44952054)
 
