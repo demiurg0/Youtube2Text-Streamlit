@@ -4,7 +4,7 @@ Streamlit Voice Wizard es una herramienta versátil que simplifica el proceso de
 
 # Streamlit Voice Wizard: Youtube2Text, Transcripción, Traducción y procesamiento de Audio
 
-![imagen](https://github.com/jarvarbin/Streamlit-Voice-Wizard-Youtube2Text/assets/93614373/4ef5c6c6-9010-4b34-8a2c-59e66dc1dfae)
+![image](https://github.com/demiurg0/Youtube2Text-Streamlit-Voice-Wizard/assets/165735354/4b13d644-67ca-437d-8250-148f16f73ea6)
 
 ### Youtube download + Video2audio + Audio2text + Translate Spanish + PLN + Streamlit
 
@@ -35,8 +35,8 @@ Streamlit Voice Wizard es una herramienta versátil que simplifica el proceso de
 6. Si cargaste un archivo de audio, también podrás reproducir el audio directamente desde la aplicación.
 
 
-![image](https://github.com/demiurg0/Youtube2Text-Streamlit-Voice-Wizard/assets/165735354/3f128c95-867e-49a9-99ed-8e009e7336d2)
-
+[![image](https://github.com/demiurg0/Youtube2Text-Streamlit-Voice-Wizard/assets/165735354/3f128c95-867e-49a9-99ed-8e009e7336d2)
+](https://private-user-images.githubusercontent.com/93614373/321261753-e10f081e-8fae-4e6f-9097-0ac6181f30b4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI4Njg2ODAsIm5iZiI6MTcxMjg2ODM4MCwicGF0aCI6Ii85MzYxNDM3My8zMjEyNjE3NTMtZTEwZjA4MWUtOGZhZS00ZTZmLTkwOTctMGFjNjE4MWYzMGI0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDExVDIwNDYyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4OTEzZGM3NmVlMGIwZmYzZTI0ZDAyMzY2YWUwMWYxYjJlMzM1MzBiYzc3MWQyNzY3MmFkNWQ5MDcyNmZkNzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.VDlDb7ZfQzHy3Mdl4PbFBCapf4_DhR2OX5hO93yQ26c)
 
 ## To-Do:
 1. Añadir opcion de elgir a que idioma traducir
