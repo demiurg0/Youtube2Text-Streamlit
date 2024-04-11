@@ -23,8 +23,8 @@ Streamlit Voice Wizard es una herramienta versátil que simplifica el proceso de
 - Python 3.x
 - pip
 - Instala las dependencias del archivo `requirements.txt`
-- Añadir al codigo api key de huggingface y V3 de youtube --> TODO meterlo en un .env
-
+- Añadir al codigo api key de huggingface y V3 de youtube
+  
 ## Uso:
 
 1. Ejecuta la aplicación ejecutando el siguiente comando en la terminal:
@@ -40,11 +40,12 @@ Streamlit Voice Wizard es una herramienta versátil que simplifica el proceso de
 
 ## To-Do:
 1. Añadir opcion de elgir a que idioma traducir
-2. Añadir solucion para idioma arabe con Spacy ya que no hay modelo
-3. Solucionar bug de index y columnas
-4. Mejorar la gestion de archivos
-5. Mejorar el output
-6. Revisar y mejorar información del canal, intentar obtener y renderizar todos los videos, y pasar del video al canal en lugar de url, es decir; integrar como un buscador de youtube y render graf. de la inf.
+2. Añadir API a env o config
+3. Añadir solucion para idioma arabe con Spacy ya que no hay modelo
+4. Solucionar bug de index y columnas
+5. Mejorar la gestion de archivos
+6. Mejorar el output
+7. Revisar y mejorar información del canal, intentar obtener y renderizar todos los videos, y pasar del video al canal en lugar de url, es decir; integrar como un buscador de youtube y render graf. de la inf.
 
 
 ## Licencia:
