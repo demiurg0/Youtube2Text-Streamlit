@@ -1,50 +1,63 @@
 # Streamlit Voice Wizard: Youtube2Text, Transcription, Translation, and Audio Processing
-![image](https://github.com/demiurg0/Youtube2Text-Streamlit/assets/165735354/93c850c4-55e1-4bff-aed8-94ea44952054)
 
-### Youtube Download + Video2Audio + Audio2Text + Translate to Spanish + NLP + Streamlit
+Streamlit Voice Wizard is an all-in-one application that transforms YouTube videos into actionable text insights through a streamlined process of downloading, transcribing, translating, and performing Natural Language Processing (NLP).
 
-Streamlit Voice Wizard is a versatile tool that simplifies the process of transcription and translation for YouTube video and audio files. With an intuitive interface, users can upload audio files or enter video URLs, which are then transcribed using the Whisper model or an API. The transcriptions are subsequently translated into Spanish using the Opus-MT model. Furthermore, the tool performs linguistic analysis on both the transcriptions and the translated text, extracting entities and analyzing sentiment. Additionally, it retrieves information from YouTube videos, such as channel details, descriptions, and titles, for further linguistic analysis. Finally, the results are visualized and displayed through the Streamlit interface, offering users an accessible and comprehensive understanding of multimedia content in various languages.
+![Overview Image](https://github.com/demiurg0/Youtube2Text-Streamlit/assets/165735354/93c850c4-55e1-4bff-aed8-94ea44952054)
 
-![image](https://github.com/demiurg0/Youtube2Text-Streamlit/assets/165735354/549b5fb7-0316-4cb2-93cd-5292e8701732)
+## Application Flow:
 
+1. **Download:** Retrieve video content from YouTube.
+2. **Video-to-Audio:** Convert video to audio format for processing.
+3. **Audio-to-Text:** Transcribe the audio content into text.
+4. **Translate:** Translate the text into Spanish or other languages.
+5. **NLP Analysis:** Perform sentiment analysis and entity recognition.
+6. **Visualization:** Display the processed data through an interactive Streamlit interface.
 
-## Key Features:
+### Key Features
 
-- Instant transcription of YouTube videos and audio files.
-- Automatic translation of transcriptions into Spanish.
-- Entity and sentiment analysis to deeply understand the content.
-- Interactive visualization of results for easy interpretation.
+- **Transcription:** Quick and accurate conversion of video and audio content to text using AI models.
+- **Translation:** Seamless translation of transcriptions to enhance understanding across languages.
+- **Sentiment Analysis:** Gauge the emotional tone behind the text.
+- **Entity Recognition:** Identify key entities within the text to extract meaningful insights.
+- **Streamlit UI:** A user-friendly interface that provides a comprehensive view of the multimedia content.
 
-## Prerequisites:
+### Getting Started
 
-- Python 3.x
-- pip
-- Install dependencies from the `requirements.txt` file.
-- Add the Huggingface and Youtube V3 API keys to the code.
+#### Prerequisites
 
-  
-## Usage:
+- **Environment:** Python 3.x and pip installed.
+- **Dependencies:** Install all necessary libraries from `requirements.txt`.
+- **API Keys:** Secure Huggingface and Youtube V3 API keys included in the code.
 
-```
-streamlit run app.py
-```
-1. Run the application by executing the following command in the terminal:
-2. In the user interface, upload an audio file in .wav format or enter a YouTube video URL.
-3. Select the transcription method (API or Whisper).
-4. Click the "Transcribe" button to start the transcription and translation process.
-5. The original transcription, Spanish translation, and entity and sentiment analyses will be displayed.
-6. If you uploaded an audio file, you will also be able to play the audio directly from the application.
+#### Installation
+
+1. Clone the repository or download the source code.
+2. Navigate to the project directory in the terminal.
+3. Install dependencies:
+4. Add API keys to the configuration file or environment variables as required.
+
+#### Usage Guide
+
+1. Start the application by running the command in the terminal:
+2. Interface operations:
+- Upload an audio file (.wav) or paste a YouTube video URL.
+- Select the transcription method: API or Whisper Model.
+- Click "Transcribe" to initiate the transcription and subsequent translation process.
+
+3. View Results:
+- Original transcription, translation, and analyses will be dynamically generated and displayed.
+- Audio playback is available for uploaded files.
 
 ![image](https://github.com/demiurg0/Youtube2Text-Streamlit-Voice-Wizard/assets/165735354/5afbabc2-2071-45e9-900b-524c55d9bcd7)
 
-## To-Do:
-1. Add option to choose the language for translation.
-2. Add API to env or config.
-3. Add solution for Arabic language with Spacy since there is no model.
-4. Solve index and column bug.
-5. Improve file management.
-6. Improve the output.
-7. Review and enhance channel information, try to retrieve and render all videos, and switch from video to channel instead of URL, i.e., integrate as a YouTube search engine and render graphics of the information.
+## Future Enhancements
+
+- **Language Options:** Incorporate multi-language support for translation.
+- **Configuration Management:** Streamline API configuration through environment variables.
+- **NLP Support:** Extend support for languages like Arabic within NLP analysis.
+- **Usability Improvements:** Address UI bugs and enhance file management features.
+- **Analytics Expansion:** Augment channel analytics and integrate advanced search capabilities.
+
 
 ## License:
 
