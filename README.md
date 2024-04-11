@@ -21,7 +21,7 @@ Streamlit Voice Wizard is an all-in-one application that transforms YouTube vide
 - **Entity Recognition:** Identify key entities within the text to extract meaningful insights.
 - **Streamlit UI:** A user-friendly interface that provides a comprehensive view of the multimedia content.
 
-### Getting Started
+## Getting Started
 
 #### Prerequisites
 
